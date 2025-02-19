@@ -1,0 +1,15 @@
+../Src/circular_buffer.c:36:6:circular_buffer_init	1
+../Src/circular_buffer.c:49:13:buff_store_char	2
+../Src/circular_buffer.c:62:6:buffer_clear	3
+../Src/circular_buffer.c:83:5:buffer_peek	5
+../Src/circular_buffer.c:118:5:buffer_read	5
+../Src/circular_buffer.c:154:6:buffer_write	5
+../Src/circular_buffer.c:188:5:is_data	3
+../Src/circular_buffer.c:209:13:get_first_char	4
+../Src/circular_buffer.c:221:5:is_response	5
+../Src/circular_buffer.c:244:6:get_strg	3
+../Src/circular_buffer.c:253:6:buffer_send_string	2
+../Src/circular_buffer.c:259:6:slave_dev_uart_callback	6
+../Src/circular_buffer.c:284:6:debug_uart_callback	6
+../Src/circular_buffer.c:309:6:USART2_IRQHandler	1
+../Src/circular_buffer.c:313:6:USART1_IRQHandler	1
