@@ -1,0 +1,7 @@
+C:/STM32/target/ESP32_Library/chip_headers/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	16	static,ignoring_inline_asm
+../Src/uart.c:27:5:__io_putchar	16	static
+../Src/uart.c:32:6:debug_uart_init	8	static
+../Src/uart.c:86:6:slave_dev_uart_init	8	static
+../Src/uart.c:133:13:uart_write	16	static
+../Src/uart.c:141:17:compute_uart_bd	16	static
+../Src/uart.c:145:13:uart_set_baudrate	16	static
